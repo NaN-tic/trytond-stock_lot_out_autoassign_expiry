@@ -1,0 +1,19 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "selection:stock.configuration,lot_priority:"
+msgid "Alert Date"
+msgstr "Data alerta"
+
+msgctxt "selection:stock.configuration,lot_priority:"
+msgid "End of Life Date"
+msgstr "Data fi de vida"
+
+msgctxt "selection:stock.configuration,lot_priority:"
+msgid "Expiry Date"
+msgstr "Data caducitat"
+
+msgctxt "selection:stock.configuration,lot_priority:"
+msgid "Removal Date"
+msgstr "Data eliminació"
