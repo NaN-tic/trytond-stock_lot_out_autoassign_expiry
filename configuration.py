@@ -19,5 +19,6 @@ class Configuration:
             ('removal_date', 'Removal Date'),
             ('alert_date', 'Alert Date'),
             ]
-        if selection[1] not in cls.lot_priority.selection:
-            cls.lot_priority.selection.extend(selection)
+        for option in selection:
+            if option not in cls.lot_priority.selection:
+                cls.lot_priority.selection.append(option)
